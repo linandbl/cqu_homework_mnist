@@ -27,6 +27,6 @@ pytorch框架下cnn模型
 
 - 邮箱：13145529287@163.com
 
-- GitHub：
+- GitHub：https://github.com/linandbl/cqu_homework_mnist
 
 最后更新时间：2026年1月10日
